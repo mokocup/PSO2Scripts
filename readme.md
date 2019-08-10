@@ -1,4 +1,4 @@
-#PSO2 Scripts
+# PSO2 Scripts
 
 This repository is an ahk scripts collection that i used in Phantasy Star Online 2
 
