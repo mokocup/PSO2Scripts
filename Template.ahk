@@ -17,12 +17,12 @@ IfWinExist, %UniqueWin%
     }
 }
 
-FunScratch:
-    checkSend("Enter")
+AhkScripts:
+
 return
 
 q::
 OnOff:=!OnOff
-SetTimer,FunScratch,% OnOff == 1 ? %loopTime% : "Off"
+SetTimer,AhkScripts,% OnOff == 1 ? %loopTime% : "Off"
 return
 Esc::ExitApp
