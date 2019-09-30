@@ -1,0 +1,1 @@
+AutoHotkeyU64.exe  %*.ahk
