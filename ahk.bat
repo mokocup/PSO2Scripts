@@ -1,1 +1,1 @@
-AutoHotkeyU64.exe  %*.ahk
+start binary/AutoHotkeyU64.exe  %*.ahk

@@ -1,3 +1,6 @@
+# IDE Config
 **/.vscode/**
 **/.idea/**
-**/**.exe
+
+# Local AHK Binary
+/binary/**
